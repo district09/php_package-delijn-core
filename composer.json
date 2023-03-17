@@ -1,4 +1,5 @@
 {
+    "name": "district09/php_package-delijn-core",
     "version": "1.0.0",
     "description": "Dit document beschrijft de kern operaties van de Open Data API (v1)",
     "keywords": [
