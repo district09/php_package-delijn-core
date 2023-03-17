@@ -1,0 +1,10 @@
+# # Entiteiten
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**entiteiten** | [**\District09\DeLijnCoreAPI\Model\Entiteit[]**](Entiteit.md) |  | [optional]
+**links** | [**\District09\DeLijnCoreAPI\Model\Link[]**](Link.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
